@@ -1,2 +1,2 @@
 ﻿# MainProject
-<head>This code is devoloped by Srinjay Dutta</head>
+<head>This code is mainly devoloped by Srinjay Dutta</head>
